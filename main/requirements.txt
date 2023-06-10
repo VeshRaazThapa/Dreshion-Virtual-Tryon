@@ -6,3 +6,7 @@ tensorboardX
 pymatting
 ninja
 onnxruntime
+flask
+gdown
+scikit-image
+torchvision
