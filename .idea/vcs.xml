@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/main/Self-Correction-Human-Parsing-CPU" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/main/U-2-Net" vcs="Git" />
+  </component>
+</project>

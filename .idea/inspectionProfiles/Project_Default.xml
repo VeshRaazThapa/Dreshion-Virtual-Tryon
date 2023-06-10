@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="django-rest-authtoken" />
+            <item index="1" class="java.lang.String" itemvalue="gunicorn" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="plugins.models.MunicipalityDetail.objects" />
+          <option value="plugins.models.DistrictDetail.objects" />
+          <option value="plugins.models.mon_operated_by.objects" />
+          <option value="plugins.models.doner_type.objects" />
+          <option value="plugins.views.operation_cmt_infoForm" />
+          <option value="plugins.utils.forms_list.*" />
+          <option value="plugins.urls.re_path" />
+          <option value="django.db.models.JSONField" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
+  </profile>
+</component>
